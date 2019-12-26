@@ -1,2 +1,6 @@
 # Example Repository
-This is a sample repo,hello world!
+hello all
+how are you
+tell me what
+
+
